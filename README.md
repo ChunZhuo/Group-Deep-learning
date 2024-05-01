@@ -17,3 +17,8 @@ for all $$h \in G$$
 **Right-regular representation**
 $$\rho : h \to hg^{-1}$$
 
+**Group action**
+$$$$
+
+
+
