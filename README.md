@@ -5,6 +5,7 @@ Equivariance, group theory for deep learning
 A representation $\mathrm{\rho}: G \to GL(V) $ 
 
 A representation GL(V) general linear group
+
 $\mathrm{\rho}$ is a group homomorphism 
 
 $\mathrm{\rho}(g)$ is a linear transformation that is parameterized by group elements $g\in G$
