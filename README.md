@@ -11,4 +11,8 @@ $$\mathrm{\rho}(g')\mathrm{\rho}(g)[v]= \mathrm{\rho}(g'\dot g)[v]$$
 
 **Left-regular representation**
 $$\mathscr{L_{g}} [f] (x) = f(g^{-1}\dot x)$$
+$$\lambda : h \to gh$$ 
+for all h \to G
+**Right-regular representation**
+$$\rho : h \to hg^{-1}$$
 
