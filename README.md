@@ -13,7 +13,7 @@ $$\mathrm{\rho}(g')\mathrm{\rho}(g)[v]= \mathrm{\rho}(g'\dot g)[v]$$
 $$\mathscr{L_{g}} [f] (x) = f(g^{-1}\dot x)$$
 $$\lambda : h \to gh$$
 
-for all $$h \to G$$
+for all $$h \in G$$
 **Right-regular representation**
 $$\rho : h \to hg^{-1}$$
 
