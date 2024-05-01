@@ -10,5 +10,5 @@ $\mathrm{\rho}(g)$ is a linear transformation that is parameterized by group ele
 $$\mathrm{\rho}(g')\mathrm{\rho}(g)[v]= \mathrm{\rho}(g'g)[v]$$
 
 **Left-regular representation**
-$$\mathrm{L}$$
+$$\mathscr{L}$$
 
