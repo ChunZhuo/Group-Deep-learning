@@ -25,7 +25,8 @@ $$\rho : h \to hg^{-1}$$
 **Group action**
 $$\forall_{g,g' \in G, x \in X}: g \odot (g' \odot x) = (gg') \odot x$$
 **Transitive action**
-An action $ \odot : G \times X \to X $
+An action 
+$\odot : G \times X \to X$
 that $$\forall x_{0},x \in X, \exists {g} \in {G} : x = g \odot x_{0}$$
 
 
