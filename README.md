@@ -2,7 +2,8 @@
 Equivariance, group theory for deep learning
 
 **Group theory**
-A representation $\mathrm{\rho}: G \to GL(V) $ 
+**A representation**
+$\mathrm{\rho}: G \to GL(V) $ 
 
 A representation GL(V) general linear group
 
