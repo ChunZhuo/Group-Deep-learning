@@ -10,5 +10,5 @@ $\mathrm{\rho}(g)$ is a linear transformation that is parameterized by group ele
 $$\mathrm{\rho}(g')\mathrm{\rho}(g)[v]= \mathrm{\rho}(g'\dot g)[v]$$
 
 **Left-regular representation**
-$$\mathscr{L} [f] (x) = f(g^{-1}\dot x)$$
+$$\mathscr{L_{g}} [f] (x) = f(g^{-1}\dot x)$$
 
