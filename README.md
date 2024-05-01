@@ -7,8 +7,8 @@ GL(V) general linear group
 
 $\mathrm{\rho}(g)$ is a linear transformation that is parameterized by group elements $g\in G$
 
-$$\mathrm{\rho}(g')\mathrm{\rho}(g)[v]= \mathrm{\rho}(g'g)[v]$$
+$$\mathrm{\rho}(g')\mathrm{\rho}(g)[v]= \mathrm{\rho}(g'\dot g)[v]$$
 
 **Left-regular representation**
-$$\mathscr{L}$$
+$$\mathscr{L}[f](x) = f(g_{-1}\dot x)$$
 
