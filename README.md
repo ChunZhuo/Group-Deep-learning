@@ -34,3 +34,6 @@ $\odot : G \times X \to X$
 that $$\forall x_{0},x \in X, \exists {g} \in {G} : x = g \odot x_{0}$$
 
 Homogeneous space: A space X on which G acts transitively
+
+![Uploading image.png…]()
+
