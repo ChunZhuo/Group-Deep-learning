@@ -3,6 +3,10 @@ Equivariance, group theory for deep learning
 
 **Group theory**
 
+**Affine groups**
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/0d462d47-0f3a-4f7b-968a-c6509c4673e3)
+
+
 **A representation**
 $\mathrm{\rho}: G \to GL(V) $ 
 
