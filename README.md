@@ -40,5 +40,11 @@ Homogeneous space: A space X on which G acts transitively
 https://proceedings.neurips.cc/paper_files/paper/2019/file/45d6637b718d0f24a237069fe41b0db4-Paper.pdf
 https://gabri95.github.io/Thesis/thesis.pdf
 
+
+**Equivalence of group representations**
+$\rho^{A}(g)$ and $\rho^{B}(g)$ are equivalent
+if:
+$\rho^{B}(g) = Q^{-1}\rho^{A}(g)Q$
+
 ![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/ca463a45-d71c-44c4-b96e-1a6a87ba86a4)
 
