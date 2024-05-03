@@ -46,12 +46,11 @@ $\rho^{A}(g)$ and $\rho^{B}(g)$ are equivalent
 if:
 $\rho^{B}(g) = Q^{-1}\rho^{A}(g)Q$
 **representation is called reducible if **
-$$\rho (g) = Q^{-1}(\rho_{1}(g)\oplus\rho_{2}(g))Q = Q^{-1}$$
-
-\begin{pmatrix} \rho_{1}(g) & 0
+$$\rho (g) = Q^{-1}(\rho_{1}(g)\oplus\rho_{2}(g))Q = Q^{-1}
+$$\begin{bmatrix} \rho_{1}(g) & 0
 \\
 0 & \rho_{2}(g)
-\end{pmatrix}
+\end{bmatrix}
 Q$$
 ![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/ca463a45-d71c-44c4-b96e-1a6a87ba86a4)
 
