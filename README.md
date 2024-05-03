@@ -50,5 +50,7 @@ $$\rho (g) = Q^{-1}(\rho_{1}(g)\oplus\rho_{2}(g))Q = Q^{-1} \begin{bmatrix} \rho
 \\
 0 & \rho_{2}(g)
 \end{bmatrix}$$
+
+
 ![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/ca463a45-d71c-44c4-b96e-1a6a87ba86a4)
 
