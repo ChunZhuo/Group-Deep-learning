@@ -57,5 +57,5 @@ Steerable basis (circular harmonics)
 
 $Y_{l}(\mathrm{\alpha}) = \mathrm{e}^{ila}$
 
-$f(\mathrm{\alpha}|\bar{\hat{w}}) = \displaystyle\sum_{l = - \infty}^\infty \bar{\hat{w}}_{l}$
+$f(\mathrm{\alpha}|\bar{\hat{w}}) = \displaystyle\sum_{l = - \infty}^\infty \bar{\hat{w}}_{l} Y_{l}(\mathrm{\alpha})$
 
