@@ -54,5 +54,7 @@ $\rho^{B}(g) = Q^{-1}\rho^{A}(g)Q$
 
 ____________________
 Steerable basis (circular harmonics)
+
 $Y_{l}(\mathrm{\alpha}) = \mathrm{e}^{ila}$
+$f(\mathrm{\alpha}|\bar{\hat{w}}) = \sum_{l = - \infty}^{\infty} \bar{\hat{w}}_{l} Y_{l}(\alpha)$
 
