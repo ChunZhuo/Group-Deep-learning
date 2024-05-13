@@ -55,5 +55,6 @@ $\rho^{B}(g) = Q^{-1}\rho^{A}(g)Q$
 ____________________
 Steerable basis (circular harmonics)
 
-![Uploading image.png…]()
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/69eabf1f-5850-489d-9e61-a764b890e687)
+
 
