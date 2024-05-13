@@ -57,4 +57,6 @@ Steerable basis (circular harmonics)
 
 ![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/69eabf1f-5850-489d-9e61-a764b890e687)
 
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/3225454a-ec65-4d9d-a667-6b6b9788dbda)
+
 
