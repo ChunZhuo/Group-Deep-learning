@@ -67,3 +67,10 @@ Steerable basis (circular harmonics)
 
 ![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/61dcd008-c062-4233-8c6d-72e2d75365a1)
 
+Spherical harmonics:
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/2db67a3f-38c3-4d8e-a2df-21702bd98e49)
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/5fd33058-cc06-465e-8c11-fdcdfff3d92d)
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/b2877f5a-5345-4943-8df2-b38304ed09f8)
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/c9dd05d4-400d-49df-a8f6-caf3d3e242a5)
+![image](https://github.com/ChunZhuo/Group-Deep-learning/assets/118121876/fff0fd83-beab-4a01-bce2-8efc0a1765ed)
+
